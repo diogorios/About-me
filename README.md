@@ -14,7 +14,7 @@ I look forward to continuing to contribute my experience and skills to challengi
 
 ### Skills
 [![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=45D1FD)](https://flutter.dev)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://www.python.org)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Delphi](https://img.shields.io/badge/Delphi-000?style=for-the-badge&logo=delphi&logoColor=FDD100)](https://www.embarcadero.com/products/delphi)
 [![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=3DDC84)](https://developer.android.com)
 [![FastReport](https://img.shields.io/badge/FastReport-000?style=for-the-badge&logo=fastreport&logoColor=4B0082)](https://www.fast-report.com/)
